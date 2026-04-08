@@ -1,7 +1,6 @@
 # STARTER-jpa03
 
 Running at: https://jpa03-vanessaxu07.dokku-04.cs.ucsb.edu
-
 # Configuring GitHub Pages for the documentation
 
 This repo contains Github Actions scripts that automatically create and publish documentation for the code:
